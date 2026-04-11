@@ -126,9 +126,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 ```bash
 streamlit run app.py
 
-
----
-
+```
 ## Project Structure
 JustiBot/
 ├── app.py                  # Main Streamlit application
